@@ -1,0 +1,9 @@
+task: training
+#task: check
+
+check:
+        report: ./Data/check_report.txt
+
+training:
+        model: ./Data/model.hdf5
+
