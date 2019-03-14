@@ -6,4 +6,5 @@ check:
 
 training:
         model: ./Data/model.hdf5
+        alpha: 0.01
 
